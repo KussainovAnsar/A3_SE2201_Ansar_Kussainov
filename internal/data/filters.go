@@ -4,7 +4,7 @@ import (
 	"math"
 	"strings"
 
-	"github.com/DataDavD/snippetbox/greenlight/internal/validator"
+	"github.com/KussainovAnsar/A3_SE2201_Ansar_Kussainov/internal/validator"
 )
 
 type Filters struct {

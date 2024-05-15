@@ -1,4 +1,4 @@
-module github.com/DataDavD/snippetbox/greenlight
+module github.com/KussainovAnsar/A3_SE2201_Ansar_Kussainov
 
 go 1.18
 
@@ -13,6 +13,13 @@ require (
 )
 
 require (
+	github.com/davecgh/go-spew v1.1.1 // indirect
+	github.com/pmezard/go-difflib v1.0.0 // indirect
+	gopkg.in/yaml.v3 v3.0.1 // indirect
+)
+
+require (
+	github.com/stretchr/testify v1.9.0
 	gopkg.in/alexcesaro/quotedprintable.v3 v3.0.0-20150716171945-2caba252f4dc // indirect
 	gopkg.in/mail.v2 v2.3.1 // indirect
 )
