@@ -2,7 +2,6 @@
 
 Navigate to the directory containing the test files. Run the following command in your terminal:
 
-```bash
 go test
 
 Integration tests:
